@@ -5,5 +5,5 @@
 
 <span>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhnasajpour&show_icons=true&locale=en" alt="mhnasajpour" width="450" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhnasajpour&show_icons=true&locale=en&layout=compact" alt="mhnasajpour" width="370" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhnasajpour&show_icons=true&locale=en&layout=compact" alt="mhnasajpour" width="350" /></p>
 </span>
