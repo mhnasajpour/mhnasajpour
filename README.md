@@ -2,10 +2,8 @@
 
 <h3 align="left">Github stats</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnasajpour&count_private=true&show_icons=true&border_radius=10&line_height=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasajpour&border_radius=10&langs_count=6&layout=compact)
-
-
+<span><img src="https://github-readme-stats.vercel.app/api?username=mhnasajpour&count_private=true&show_icons=true&border_radius=10" alt="mhnasajpour" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasajpour&border_radius=10&langs_count=6&layout=compact" alt="mhnasajpour" height="180" /></span>
 
 <h3 align="left">Contribution</h3>
 
