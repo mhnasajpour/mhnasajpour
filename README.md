@@ -1,19 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hasan</h1>
 
 <h3 align="left">Github stats</h3>
-<div>
-  <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=mhnasajpour&show_icons=true&locale=en" alt="mhnasajpour" width="450" /></div>
-  <div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhnasajpour&show_icons=true&locale=en&layout=compact" alt="mhnasajpour"        width="350" /></div>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-</div>
-
+<div><img src="https://github-readme-stats.vercel.app/api?username=mhnasajpour&show_icons=true&locale=en" alt="mhnasajpour" width="450" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhnasajpour&show_icons=true&locale=en&layout=compact" alt="mhnasajpour" width="350" /></div>
 
 <h3 align="left">Contribution</h3>
 
