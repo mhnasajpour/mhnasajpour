@@ -2,9 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/75223567/136923228-fee164da-c083-4d60-851a-1f2a4fb80c13.gif" alt="Mohammad Hasan Nasajpour"/>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-
-
+![Profile views](https://gpvc.arturio.dev/mhnasajpour)
 <h3 align="left">Github stats</h3>
 
 <span><img src="https://github-readme-stats.vercel.app/api?username=mhnasajpour&count_private=true&show_icons=true&border_radius=10" alt="mhnasajpour" height="180" style="margin: 0;" />
