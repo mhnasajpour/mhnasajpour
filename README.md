@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hasan</h1>
 
 <h3 align="left">Github stats</h3>
-<div><img src="https://github-readme-stats.vercel.app/api?username=mhnasajpour&show_icons=true&locale=en" alt="mhnasajpour" width="450" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhnasajpour&show_icons=true&locale=en&layout=compact" alt="mhnasajpour" width="350" /></div>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhnasajpour&count_private=true&show_icons=true&border_radius=10&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhnasajpour&border_radius=10&langs_count=6&layout=compact)
+
+
 
 <h3 align="left">Contribution</h3>
 
