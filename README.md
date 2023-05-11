@@ -13,7 +13,7 @@
   <h3 align="left">Languages and Tools</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,docker,c,cpp,qt,html,css,js,git,linux,vscode" />
+      <img src="https://skillicons.dev/icons?i=python,django,postgres,sqlite,docker,c,cpp,qt,html,css,js,git,postman,linux,vscode,visualstudio,latex,bash" />
     </a>
   </p>
  </div>
