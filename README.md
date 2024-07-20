@@ -9,7 +9,7 @@
   <h3 align="left">Languages and Tools</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,selenium,gherkin,django,postgres,sqlite,docker,c,cpp,qt,html,css,js,git,postman,linux,vscode,visualstudio,latex,bash&perline=10" />
+      <img src="https://skillicons.dev/icons?i=python,selenium,gherkin,django,postgres,sqlite,docker,c,cpp,qt,html,css,js, ts,git,postman,linux,vscode,visualstudio,latex,bash&perline=10" />
     </a>
   </p>
  </div>
