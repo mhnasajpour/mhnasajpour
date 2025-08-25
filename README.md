@@ -9,7 +9,7 @@
   <h3 align="left">Languages and Tools</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=go,postgres,docker,python,html,css,js,ts,git,cypress,selenium,gherkin,elasticsearch,django,flask,mysql,mongodb,sqlite,c,cpp,qt,postman,linux,grafana,latex,bash,vscode&perline=9" />
+      <img src="https://skillicons.dev/icons?i=go,postgres,docker,python,html,css,js,ts,angular,git,cypress,selenium,gherkin,elasticsearch,django,flask,mysql,mongodb,sqlite,c,cpp,qt,postman,linux,grafana,latex,bash,vscode&perline=7" />
     </a>
   </p>
  </div>
